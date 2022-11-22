@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh S Nayak</h1>
 <h3 align="center">A passionate Coder from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/4801105-Animation/attachments/10603366?mode=media">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshn29&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshn29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshn29" alt="ganeshn29" /></a> </p>
