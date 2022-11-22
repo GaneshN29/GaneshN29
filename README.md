@@ -1,11 +1,12 @@
+![MasterHead](https://camo.githubusercontent.com/69bf67291da308f2ed16225521364f8acea377dda2ec5c0f41b5f8f307875f0a/68747470733a2f2f692e696d6775722e636f6d2f7551366e566a422e676966)
 <h1 align="center">Hi 👋, I'm Ganesh S Nayak</h1>
 <h3 align="center">A passionate Coder from India</h3>
 
-<img align="center" alt="coding" width="500" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshn29&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshn29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshn29" alt="ganeshn29" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
 - 🔭 I Have worked on some Database management Projects [Hotel Management](https://github.com/GaneshN29/Hotel_Management)
 
 - 🌱 I’m currently learning **Web Development,MongoDB,etc**
