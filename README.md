@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/69bf67291da308f2ed16225521364f8acea377dda2ec5c0f41b5f8f307875f0a/68747470733a2f2f692e696d6775722e636f6d2f7551366e566a422e676966)
 <h1 align="center">Hi 👋, I'm Ganesh S Nayak</h1>
-<h3 align="center">A passionate Coder from India</h3>
+<h3 align="center">A passionate Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshn29&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshn29" /> </p>
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ganesh-s-nayak-1894a220b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-s-nayak-1894a220b" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/twinkle_sstar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="twinkle_sstar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ganesh01292003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ganesh01292003" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ganesh01292003" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Fhackerrank.svg&imgrefurl=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fhackerrank&tbnid=mKzl0rxRUtqS9M&vet=12ahUKEwiUrPHjka38AhUlKbcAHUv9BCoQMygAegUIARCZAQ..i&docid=PCJhOFb9sIW6YM&w=2500&h=2500&q=svg%20link%20of%20hackerrank%20icon&ved=2ahUKEwiUrPHjka38AhUlKbcAHUv9BCoQMygAegUIARCZAQ" alt="ganesh01292003" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/twinkle_star29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="twinkle_star29" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ganesh01292003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ganesh01292003/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ganesh01292003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ganesh01292003" height="30" width="40" /></a>
