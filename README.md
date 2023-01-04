@@ -17,13 +17,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ganesh-s-nayak-1894a220b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-s-nayak-1894a220b" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/twinkle_sstar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="twinkle_sstar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ganesh01292003" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Fhackerrank.svg&imgrefurl=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fhackerrank&tbnid=mKzl0rxRUtqS9M&vet=12ahUKEwiUrPHjka38AhUlKbcAHUv9BCoQMygAegUIARCZAQ..i&docid=PCJhOFb9sIW6YM&w=2500&h=2500&q=svg%20link%20of%20hackerrank%20icon&ved=2ahUKEwiUrPHjka38AhUlKbcAHUv9BCoQMygAegUIARCZAQ" alt="ganesh01292003" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/twinkle_star29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="twinkle_star29" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ganesh01292003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ganesh01292003/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ganesh01292003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ganesh01292003" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/twinkle__star" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="twinkle__star" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ganesh-s-nayak-1894a220b" target="blank"><img align="center" src="https://img.icons8.com/doodle/512/linkedin--v2.png" alt="ganesh-s-nayak-1894a220b" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/twinkle_sstar" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/codechef.png" alt="twinkle_sstar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ganesh01292003" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="ganesh01292003" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/twinkle_star29" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/512/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo.png" alt="twinkle_star29" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ganesh01292003/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="ganesh01292003/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@ganesh01292003" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="ganesh01292003" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/twinkle__star" target="blank"><img align="center" src="https://img.icons8.com/color/512/GeeksforGeeks.png" alt="twinkle__star" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
