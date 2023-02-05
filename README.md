@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ganesh-s-nayak-1894a220b" target="blank"><img align="center" src="https://img.icons8.com/doodle/512/linkedin--v2.png" alt="ganesh-s-nayak-1894a220b" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/twinkle__star" target="blank"><img align="center" src="https://img.icons8.com/color/512/GeeksforGeeks.png" alt="twinkle__star" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/ganesh01292003/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="ganesh01292003/" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/Twinkle_Star" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Twinkle_Star" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/twinkle_star29" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/512/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo.png" alt="twinkle_star29" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/twinkle_sstar" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/codechef.png" alt="twinkle_sstar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ganesh01292003" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="ganesh01292003" height="30" width="40" /></a>
